@@ -1,0 +1,3 @@
+[submodule "MyBestDiet.ProductService"]
+	path = MyBestDiet.ProductService
+	url = https://github.com/dimametal19/MyBestDiet.ProductService.client_dotnet.git
